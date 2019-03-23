@@ -60,6 +60,9 @@
   },
   "dependencies": {
     "@babel/polyfill": "7.0.0",
+    "carbon-components": "^9.89.0",
+    "carbon-components-react": "^6.111.4",
+    "carbon-icons": "^7.0.7",
     "chalk": "^2.4.1",
     "compression": "1.7.3",
     "connected-react-router": "4.5.0",
